@@ -18,6 +18,7 @@
 </div>
 
 <div align="center">
+  <div>
 - :telescope: I’m working as an IT Specialist and help people by solving problems every day.
 
 - :seedling: Growing my Python skills.
@@ -26,7 +27,7 @@
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Michael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michaelboyce999/)
   </div>
-
+</div>
 <!--
 **Mboyce613/Mboyce613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

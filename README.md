@@ -24,9 +24,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="michael.a.boyce999@gmail.com">
-    <img src="https://img.shields.io/badge/Email-8A2BE2"/>
-  </a>
+    <img src="https://img.shields.io/badge/michael.a.boyce999@gmail.com-8A2BE2"/>
 </div>
 
 

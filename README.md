@@ -3,6 +3,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Mboyce613&style=flat-square&color=blue" alt=""/>
+</div>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnpkcDVwMXo2dXRwMXQxcDdoYm4zcThkYWxwYWcwMW5jejkzOG8xeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" width="100"/>
 </div>
@@ -13,8 +17,10 @@
   </a>
 </div>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Mboyce613&style=flat-square&color=blue" alt=""/>
+<div id="badges" align="center">
+  <a href="https://michaelaboyce999.wixsite.com/michael-boyce-portfo">
+    <img src="https://img.shields.io/badge/purple?style=for-the-badge" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
 

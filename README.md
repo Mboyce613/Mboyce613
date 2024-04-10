@@ -19,7 +19,7 @@
 
 <div id="badges" align="center">
   <a href="https://michaelaboyce999.wixsite.com/michael-boyce-portfo">
-    <img src="https://img.shields.io/badge/purple?style=for-the-badge" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/brightgreen?style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
 </div>
 

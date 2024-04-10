@@ -23,6 +23,12 @@
   </a>
 </div>
 
+<div id="badges" align="center">
+  <a href="michael.a.boyce999@gmail.com">
+    <img src="https://img.shields.io/badge/Email-8A2BE2"/>
+  </a>
+</div>
+
 
 - :telescope: I’m working as an IT Specialist and help people by solving problems every day.
 

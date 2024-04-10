@@ -19,7 +19,7 @@
 
 <div id="badges" align="center">
   <a href="https://michaelaboyce999.wixsite.com/michael-boyce-portfo">
-    <img src="https://img.shields.io/badge/just%20the%20Portfolio-8A2BE2"/>
+    <img src="https://img.shields.io/badge/Portfolio-8A2BE2"/>
   </a>
 </div>
 
